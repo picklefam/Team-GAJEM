@@ -1,2 +1,6 @@
-# Team-GAJM
-project T final
+# Team-GAJEM
+Project T Final - Decision Trees
+
+Learning Objectives
+
+Navigating the Repository

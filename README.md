@@ -1,5 +1,4 @@
-# Team-GAJEM
-Project T Final - Decision Trees
+# Project T Final - Decision Trees
 
 Learning Objectives
 

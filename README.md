@@ -1,7 +1,7 @@
 # Project T Final - Decision Trees
 
 ## Learning Objectives
-The lecture note introduces the decision-tree classification model with a motivating example-- evaluating the risk of travel during the Covid-19 pandemic. This encourages students to conceptualize the model beyond just an abstract tool, and also to consider the challenges they might face when training from real-world data. The note covers the terminology for decision trees, and then transitions to understanding and evaulating splitting methods. We provide examples of splitting data at various thresholds to show visually what we mean regarding the impurity of a split. In order to understand the relationship between impurity, entropy, and gini impurity, we show brief proofs that entropy and gini impurity both acheive their maximum values for uniform distributions. Finally, we introduce the greedy decision-tree learning algorithm. Here we discuss the base cases and possible soutions to overfitting. 
+Lecture note learning objectives
 
 The lecture slide deck is designed to be a less dense version of the corresponding lecture note. The lecture slide deck starts off with basic terminology surrounding decision trees and introduces students to the idea of "good" and "bad" decision trees. Next, there is a brief review of certain topics from probability as deemed necessary in order to introduce students the idea of entropy and impurity, which leads to visualizing and evaluating splits. Finally, students learn two greedy approaches in the recursive decision tree induction algorithm with special attention to the shortcomings of the general recursive algorithm. The last slide provides an extension to ensemble methods which are designed to improve on the various shortcomings of a single decision tree. 
 
@@ -46,3 +46,12 @@ The repository consists of the following items. Please click on the correspondin
       <li>ipynb notebook of solutions for the coding assignment (CS_189_Project_T_Final_Solutions.ipynb)</li>
       <li>Quiz questions and answers</li>
     </ol>
+    
+## References
+<ol type="i">
+      <li>Sklearn Decision Tree Documentation: https://scikit-learn.org/stable/modules/tree.html</li>
+      <li>Simple Machine Learning Algorithims Implementations (Decision Trees): https://github.com/rushter/MLAlgorithms</li>
+      <li>Washington Notes on Information Gain: https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf</li
+    </ol>
+
+

@@ -51,10 +51,10 @@ The repository consists of the following items. Please click on the correspondin
 ## Additional References
 <ol type="i">
       <li>Fall 2020 CS189 Lecture 11/16: https://piazza.com/class_profile/get_resource/kd9ro893fis2ig/khr711ddvzs3dj</li>
-      <li>Fall 2020 CS189 Lecture 11/18: https://piazza.com/class_profile/get_resource/kd9ro893fis2ig/khxrvspvcvr7jx <\li>
-      <li>Fall 2020 CS189 Note 25: https://www.eecs189.org/static/notes/n25.pdf<\li>
-      <li>Decision Tree Induction: How effective is the Greedy Heuristic?: https://www.aaai.org/Papers/KDD/1995/KDD95-054.pdf<\li>
-      <li>What algorithms are most successful on Kaggle? (in R): https://www.kaggle.com/msjgriffiths/r-what-algorithms-are-most-successful-on-kaggle/report<\li>
+      <li>Fall 2020 CS189 Lecture 11/18: https://piazza.com/class_profile/get_resource/kd9ro893fis2ig/khxrvspvcvr7jx </li>
+      <li>Fall 2020 CS189 Note 25: https://www.eecs189.org/static/notes/n25.pdf</li>
+      <li>Decision Tree Induction: How effective is the Greedy Heuristic?: https://www.aaai.org/Papers/KDD/1995/KDD95-054.pdf</li>
+      <li>What algorithms are most successful on Kaggle? (in R): https://www.kaggle.com/msjgriffiths/r-what-algorithms-are-most-successful-on-kaggle/report</li>
       <li>Sklearn Decision Tree Documentation: https://scikit-learn.org/stable/modules/tree.html</li>
       <li>Data 100 Slides on Decision Trees: https://docs.google.com/presentation/d/1oN7at3ljTNtRgRR6wO7Di8O3vK4M2pKBzPL3zomot2s/edit</li>
       <li>Simple Machine Learning Algorithms Implementations (Decision Trees): https://github.com/rushter/MLAlgorithms</li>

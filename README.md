@@ -44,5 +44,5 @@ The repository consists of the following items. Please click on the correspondin
       <li>PDF note on decision trees</li>
       <li>ipynb notebook of a fully working coding assignment for students to do (CS_189_Project_T_Final_Blank.ipynb)</li>
       <li>ipynb notebook of solutions for the coding assignment (CS_189_Project_T_Final_Solutions.ipynb)</li>
-      <li>Quiz Questions and answers</li>
+      <li>Quiz questions and answers</li>
     </ol>

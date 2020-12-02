@@ -56,6 +56,7 @@ The repository consists of the following items. Please click on the correspondin
       <li>Washington Notes on Information Gain: https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf</li>
       <li>COVID-19 Event Risk Assessment Planning Tool: https://covid19risk.biosci.gatech.edu/#</li>
       <li>California Coronavirus Map and Case Count: https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html#county</li>
+      <li>UCI Machine Learning Repository - Wine data: https://archive.ics.uci.edu/ml/datasets/wine+quality</li>
     </ol>
 
 

@@ -28,6 +28,9 @@ After reading the lecture note and slide deck, students should be able to:
     </ol>
 After completing the coding assignment, students should be able to:
     <ol type="i">
-      <li>something</li>
+      <li>Visualize data sets using Seaborn library and build intuition on how to best represent data</li>
+      <li>Calculate the entropy of decision tree nodes as well as learn to use the weighted entropy loss function in trying to find an optimal algorithim </li>
+      <li>Implement a variety of helper functions to help them implement a greedy algorithim to find the best split</li>
+    <li> Calculate and understand information gain in the context of entropy</li>
     </ol>
 ## Navigating the Repository

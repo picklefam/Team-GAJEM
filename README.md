@@ -47,7 +47,7 @@ The repository consists of the following items. Please click on the correspondin
       <li>Quiz questions and answers</li>
     </ol>
     
-## References
+## Additional References
 <ol type="i">
       <li>Sklearn Decision Tree Documentation: https://scikit-learn.org/stable/modules/tree.html</li>
       <li>Data 100 Slides on Decision Trees: https://docs.google.com/presentation/d/1oN7at3ljTNtRgRR6wO7Di8O3vK4M2pKBzPL3zomot2s/edit</li>

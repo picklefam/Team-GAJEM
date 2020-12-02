@@ -38,3 +38,11 @@ After completing the coding assignment, students should be able to:
       <li>Visualize a decision tree using graphviz and understand what each node represents</li>
     </ol>
 ## Navigating the Repository
+The repository consists of the following items:
+    <ol type="i">
+      <li>PDF slide deck on decision trees</li>
+      <li>PDF note on decision trees</li>
+      <li>ipynb notebook of a fully working coding assignment for students to do</li>
+      <li>ipynb notebook of solutions for the coding assignment</li>
+      <li>Quiz Questions and answers</li>
+    </ol>

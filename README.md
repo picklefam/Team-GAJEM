@@ -1,6 +1,9 @@
 # Project T Final - Decision Trees
 
 ## Learning Objectives
+Lecture note learning objectives
+
+The lecture slide deck is designed to be a less dense version of the corresponding lecture note. The lecture slide deck starts off with basic terminology surrounding decision trees and introduces students to the idea of "good" and "bad" decision trees. Then there is a brief review of some topics from probability as deemed necessary in order to teach students the idea of entropy and impurity, which leads to visualizing and evaluating splits. Finally, students are introduced to two greedy approaches in the recursive decision tree induction algorithm with some attention to the shortcomings of the general recursive algorithm. The last slide provides an extension to ensemble methods which are designed to improve on the various shortcomings of a single decision tree. 
 
 The purpose of the coding assignment is to teach students how to split a decision tree and make a decision tree model. The dataset used for the assignment is wine data from the UCI Machine Learning Repository. Students classify the quality of red wine as good or bad based on the wine's score. Scores greater than 7 indicate that the quality is good, and scores less than 7 indicate that the quality is bad. 
 
@@ -14,4 +17,17 @@ The Information Gain section will bring insight to another process of selection 
 
 Another essential skill for students to learn is how to build and visualize a decision tree model. Students are required to split the data into training and testing sets before they scale the data. Previous sections do not require the data to be scaled because the purpose was to simply teach students the fundamentals of decision boundaries. Here, the data is scaled so all the features hold equal weight and one feature does not overpower another, which will negatively affect the model. Students are required to train a decision tree classifier and make predictions using the model. After the predictions are made, students can see how accurate their model is on the training and test sets. In a practical machine learning setting, the model should be optimized using feature engineering, but we are only using the provided features for the purposes of this assignment. Finally, students visualize a decision tree for their model and comment on their observations. Students are encouraged to carefully study the visualization to understand how the tree is split and what each node represents.  
 
+## Learning Objectives Summary
+After reading the lecture note and slide deck, students should be able to:
+    <ol type="i">
+      <li>Understand basic terminology surrounding decision trees</li>
+      <li>Know what makes a decision tree "good" (and conversely, what makes a decision tree "bad")</li>
+      <li>Build intuition on evaluating splits using information gain and Gini impurity</li>
+      <li>Understand greedy recursive decision tree induction algorithm and its base cases</li>
+      <li>Understand shortcomings of single decision trees (high variance, overfitting), naturally leading to ensemble methods</li>
+    </ol>
+After completing the coding assignment, students should be able to:
+    <ol type="i">
+      <li>something</li>
+    </ol>
 ## Navigating the Repository

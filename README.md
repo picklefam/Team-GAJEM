@@ -50,7 +50,7 @@ The repository consists of the following items. Please click on the correspondin
 ## References
 <ol type="i">
       <li>Sklearn Decision Tree Documentation: https://scikit-learn.org/stable/modules/tree.html</li>
-      <li>Simple Machine Learning Algorithims Implementations (Decision Trees): https://github.com/rushter/MLAlgorithms</li>
+      <li>Simple Machine Learning Algorithms Implementations (Decision Trees): https://github.com/rushter/MLAlgorithms</li>
       <li>Washington Notes on Information Gain: https://homes.cs.washington.edu/~shapiro/EE596/notes/InfoGain.pdf</li
     </ol>
 

@@ -38,7 +38,7 @@ After completing the coding assignment, students should be able to:
       <li>Visualize a decision tree using graphviz and understand what each node represents</li>
     </ol>
 ## Navigating the Repository
-The repository consists of the following items:
+The repository consists of the following items. Please click on the corresponding items to access/download the files.
     <ol type="i">
       <li>PDF slide deck on decision trees</li>
       <li>PDF note on decision trees</li>

@@ -40,9 +40,9 @@ After completing the coding assignment, students should be able to:
 ## Navigating the Repository
 The repository consists of the following items. Please click on the corresponding items to access/download the files.
     <ol type="i">
-      <li>PDF slide deck on decision trees</li>
+      <li>PDF slide deck on decision trees (project T final lecture slides.pdf)</li>
       <li>PDF note on decision trees</li>
-      <li>ipynb notebook of a fully working coding assignment for students to do</li>
-      <li>ipynb notebook of solutions for the coding assignment</li>
+      <li>ipynb notebook of a fully working coding assignment for students to do (CS_189_Project_T_Final_Blank.ipynb)</li>
+      <li>ipynb notebook of solutions for the coding assignment (CS_189_Project_T_Final_Solutions.ipynb)</li>
       <li>Quiz Questions and answers</li>
     </ol>

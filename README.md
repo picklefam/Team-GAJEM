@@ -1,7 +1,7 @@
 # Project T Final - Decision Trees
 
 ## Learning Objectives
-The lecture note introduces the decision-tree classification model with a motivating example-- evaluating the risk of travel during the Covid-19 pandemic. This encourages students to conceptualize the model beyond just an abstract tool, and also to consider the challenges they might face when training from real-world data. The note covers the terminology for decision trees, and then transitions to understanding and evaulating splitting methods. We provide examples of splitting data at various thresholds to show visually what we mean regarding the impurity of a split. In order to understand the relationship between impurity, entropy, and gini impurity, we show brief proofs that entropy and gini impurity both acheive their maximum values for uniform distributions. Finally, we introduce the greedy decision-tree learning algorithm. Here we discuss the base cases and possible soutions to overfitting.
+The lecture note introduces the decision-tree classification model with a motivating example—evaluating the risk of travel during the Covid-19 pandemic. This encourages students to conceptualize the model beyond just an abstract tool, and also to consider the challenges they might face when training from real-world data. The note covers the terminology for decision trees, and then transitions to understanding and evaulating splitting methods. We provide examples of splitting data at various thresholds to show visually what we mean regarding the impurity of a split. In order to understand the relationship between impurity, entropy, and gini impurity, we show brief proofs that entropy and gini impurity both acheive their maximum values for uniform distributions. Finally, we introduce the greedy decision-tree learning algorithm. Here we discuss the base cases and possible soutions to overfitting.
 
 The lecture slide deck is designed to be a less dense version of the corresponding lecture note. The lecture slide deck starts off with basic terminology surrounding decision trees and introduces students to the idea of "good" and "bad" decision trees. Next, there is a brief review of certain topics from probability as deemed necessary in order to introduce students the idea of entropy and impurity, which leads to visualizing and evaluating splits. Finally, students learn two greedy approaches in the recursive decision tree induction algorithm with special attention to the shortcomings of the general recursive algorithm. The last slide provides an extension to ensemble methods which are designed to improve on the various shortcomings of a single decision tree. 
 
@@ -50,7 +50,11 @@ The repository consists of the following items. Please click on the correspondin
     
 ## Additional References
 <ol type="i">
-      <li>CS 189 Lecture 11/16 Slides and Video</li>
+      <li>Fall 2020 CS189 Lecture 11/16: https://piazza.com/class_profile/get_resource/kd9ro893fis2ig/khr711ddvzs3dj</li>
+      <li>Fall 2020 CS189 Lecture 11/18: https://piazza.com/class_profile/get_resource/kd9ro893fis2ig/khxrvspvcvr7jx <\li>
+      <li>Fall 2020 CS189 Note 25: https://www.eecs189.org/static/notes/n25.pdf<\li>
+      <li>Decision Tree Induction: How effective is the Greedy Heuristic?: https://www.aaai.org/Papers/KDD/1995/KDD95-054.pdf<\li>
+      <li>What algorithms are most successful on Kaggle? (in R): https://www.kaggle.com/msjgriffiths/r-what-algorithms-are-most-successful-on-kaggle/report<\li>
       <li>Sklearn Decision Tree Documentation: https://scikit-learn.org/stable/modules/tree.html</li>
       <li>Data 100 Slides on Decision Trees: https://docs.google.com/presentation/d/1oN7at3ljTNtRgRR6wO7Di8O3vK4M2pKBzPL3zomot2s/edit</li>
       <li>Simple Machine Learning Algorithms Implementations (Decision Trees): https://github.com/rushter/MLAlgorithms</li>

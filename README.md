@@ -32,7 +32,7 @@ After completing the coding assignment, students should be able to:
       <li>Calculate the entropy of decision tree nodes as well as learn to use the weighted entropy loss function in trying to find an optimal algorithim </li>
       <li>Implement a variety of helper functions to help them implement a greedy algorithim to find the best split</li>
       <li>Calculate and understand information gain in the context of entropy</li>
-      <li>Calculate the Gini Index of a split point for a feature</li>
+      <li>Calculate the Gini Index of an attribute/split</li>
       <li>Determine which feature goes in the root node of a decision tree by using Information Gain and the Gini Index</li>
       <li>Understand how to use sklearn's DecisionTreeClassifier to generate a decision tree model and make predictions</li>
       <li>Visualize a decision tree using graphviz and understand what each node represents</li>

@@ -42,8 +42,8 @@ The repository consists of the following items. Please click on the correspondin
     <ol type="i">
       <li>PDF slide deck on decision trees (project T final lecture slides.pdf)</li>
       <li>PDF note on decision trees (decision_tree_note.pdf)</li>
-      <li>ipynb notebook of a fully working coding assignment for students to do (CS_189_Project_T_Final_Blank.ipynb)</li>
-      <li>ipynb notebook of solutions for the coding assignment (CS_189_Project_T_Final_Solutions.ipynb)</li>
+      <li>ipynb notebook of a fully working coding assignment for students to do (Decision_Tree_Coding_Assignment.ipynb)</li>
+      <li>ipynb notebook of solutions for the coding assignment (Decision_Tree_Solutions.ipynb)</li>
       <li>Quiz questions (quiz.pdf)</li>
       <li>Quiz solutions (quiz soln.pdf)</li>
     </ol>
